@@ -1,0 +1,6 @@
+[submodule "ltd5250_4digit_asm"]
+	path = ltd5250_4digit_asm
+	url = ../ltd5250_4digit_asm.git
+[submodule "ltd5250_4digit_kicad"]
+	path = ltd5250_4digit_kicad
+	url = ../ltd5250_4digit_kicad.git
