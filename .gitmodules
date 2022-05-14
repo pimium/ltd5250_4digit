@@ -4,3 +4,6 @@
 [submodule "ltd5250_4digit_kicad"]
 	path = ltd5250_4digit_kicad
 	url = ../ltd5250_4digit_kicad.git
+[submodule "ltd5250_4digit_avr"]
+	path = ltd5250_4digit_avr
+	url = ./ltd5250_4digit_avr/
